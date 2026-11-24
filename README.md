@@ -1,3 +1,8 @@
+<img width="5712" height="4284" alt="Tetris" src="https://github.com/user-attachments/assets/57ddc923-7097-4010-adbd-df7eca1028a2" />
+<img width="4032" height="3024" alt="Solitare" src="https://github.com/user-attachments/assets/b8c5ff00-9ccc-48b6-8751-dec28ecc6bc1" />
+<img width="4032" height="3024" alt="Paint" src="https://github.com/user-attachments/assets/79402bcf-6978-4a2c-8f84-1ca8b130e60e" />
+<img width="5712" height="4284" alt="Notepad" src="https://github.com/user-attachments/assets/3d2e542d-d137-4f7a-9815-26fd01580353" />
+<img width="5712" height="4284" alt="Desktop" src="https://github.com/user-attachments/assets/355606d4-15d4-4dae-bf6e-18e22278daee" />
 # MDA 95 — Monochrome Hercules Desktop & App Suite for ESP32
 
 **MDA 95** is a lightweight, Windows 95–inspired desktop launcher and application suite engineered strictly for **1-bit monochrome Hercules / MDA CRT monitors** (`720×350 @ 50Hz` TTL monochrome — no grayscale, no intensity levels) running on the **ESP32 / LilyGO VGA32** using [FabGL](https://github.com/fdivitto/FabGL).
